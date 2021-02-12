@@ -74,24 +74,26 @@ experiences:
         and add new functions into the website. 
         Experienced in sales and customer communication, 
         and got a licence of Tourism Certificate in Yellowknife.
-          - Bullet point
-          - Bullet point
+          - PHP, Wordpress
+          - Wordpress
+          - Online payment API\
+          - Microsoft Excel 
     - role: Software Co-op Program at University of Alberta
       time: 08/2017 - 10/2017
       company: Augustana Faculty at University of Alberta,Camrose
       details: |
         Create an Android App that can display daily menus based on client opinions. 
         I am Mainly responsible for the front-end and merging branches into master branches in the development team,
-        using Java and JavaScript.
-          - Bullet point
-          - Bullet point
+          - Xml in front-end, Java in back-end.
+          - Github and Android Studio
+          - Adobe Photoshop
     - role: Student Chaplaincy
       time: 09/2017 - 05/2020
       company: Augustana Chaplaincy, Camrose
       details: |
         Assisted campus and church to organize activities for the community, and maintain the church’s media equipments.
-          - Bullet point
-          - Bullet point
+          - Media Hardware maintain
+          - Powerpoint
           
 projects:
     title: Projects
@@ -146,23 +148,37 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 67%
 
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 88%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
+      - name: Prolog
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
+      - name: Scheme
+        level: 65%
+        
+      - name: PHP
+        level: 75%
+        
+      - name: Android Studio
+        level: 78%
+        
+      - name: Scheme
+        level: 65%
+       
+      - name: Adobe photoshop
+        level: 88%
+        
+      - name: Microsoft Word & Excek
+        level: 99%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Jek</a>
