@@ -14,32 +14,32 @@ sidebar:
     # Sidebar links
     email: xsun@ualberta.ca
     phone: 780 608 9501
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: adam-sun-4774451b0
     github: adamxsun
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Mandarin
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: basic
 
     interests:
-      - item: Climbing
+      - item: Classical Guitar
         link:
 
-      - item: Snowboarding
+      - item: Ball Python
         link:
 
       - item: Cooking
@@ -50,25 +50,11 @@ career-profile:
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Aenean commodo ligula eget dolor aenean massa. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor in Computer Science/History
+      university: University of Alberta
+      time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,43 +64,35 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Travel Agency Assistant & Web Programm
+      time: 11/2019 - 04/2020
+      company: Arctic Fox Aurora, Yellowknife
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Processed customers ‘ information and organized forms,
+        and coordinated various departments. 
+        Maintain the web by using Wordpress, 
+        and add new functions into the website. 
+        Experienced in sales and customer communication, 
+        and got a licence of Tourism Certificate in Yellowknife.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Co-op Program at University of Alberta
+      time: 08/2017 - 10/2017
+      company: Augustana Faculty at University of Alberta,Camrose
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Create an Android App that can display daily menus based on client opinions. 
+        I am Mainly responsible for the front-end and merging branches into master branches in the development team,
+        using Java and JavaScript.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Student Chaplaincy
+      time: 09/2017 - 05/2020
+      company: Augustana Chaplaincy, Camrose
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Assisted campus and church to organize activities for the community, and maintain the church’s media equipments.
           - Bullet point
           - Bullet point
+          
 projects:
     title: Projects
     intro: >
