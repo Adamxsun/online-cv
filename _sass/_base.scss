@@ -204,7 +204,7 @@ p {
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
-	color: darken($theme-color, 15%);
+	color: darken($theme-color, 7%);
     }
     .projects-section {
         .intro {
@@ -253,7 +253,7 @@ p {
     }
     .level-bar-inner {
         height: 12px;
-        background: lighten($theme-color, 15%);
+        background: lighten($theme-color, 7%);
     }
 }
 
