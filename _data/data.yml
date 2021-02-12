@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -46,23 +46,16 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Recent Graduate 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. 
+      Looking for an entry level programming position. 
 education:
     - degree: Bachelor in Computer Science/History
       university: University of Alberta
       time: 2016 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Related courses: Software developing, Programming Language Analysis, Computing Architecture, Operating System, Parallel
+Programming, Database, Artificial intelligence, Linear Algebra, Discrete Mathematic, Statistics.
 experiences:
     - role: Travel Agency Assistant & Web Programm
       time: 11/2019 - 04/2020
@@ -102,25 +95,17 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Augustana Cafeteria Menu Andriod App
+        link: "#https://play.google.com/store/apps/details?id=com.ualberta.ualberta.android"
+        tagline: "An Campus App designed to help students to know the daily menu based on individual diet."
 
-      - title: DevStudio
+      - title: Hangman App
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A halloween theme hangman game on Andriod."
 
-      - title: Tempo
+      - title: Simrpg
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "My first programming project, I use Turing to make a easy rpg game, and coding, UI, and music are all credit by myself"
 
 publications:
     title: Publications
