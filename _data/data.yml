@@ -108,57 +108,56 @@ projects:
         tagline: "My first programming project, I use Turing to make a easy rpg game, and coding, UI, and music are all credit by myself"
 
 publications:
-    title: Publications
+    title: Certification & Awards
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Onesimus Service Award
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: University of Alberta
+        conference: Annual leadership at UoA. In recognition of Outstanding service and leadership
+                    within the Augustana Community
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Community Helper Certificate
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: University of Alberta
+        conference: This certificate recognizes a person who has completed the Community Helper Porgram.
+        
+      - title: Waterloo Math Contest Galois Distinction
+        link: "#"
+        authors: WaterLoo
+        conference: The certificate of distinction is for a candidate who has a global top 25% in the competition.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 83%
+        level: 68%
 
       - name: Javascript & jQuery
-        level: 67%
+        level: 46%
 
       - name: Java
-        level: 80%
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 75%
+        level: 60%
 
       - name: Prolog
-        level: 75%
+        level: 65%
 
       - name: Scheme
-        level: 55%
+        level: 35%
         
       - name: PHP
-        level: 75%
+        level: 55%
         
       - name: Android Studio
-        level: 78%
+        level: 68%
         
-      - name: Scheme
-        level: 65%
+      - name: C++
+        level: 62%
        
       - name: Adobe photoshop
         level: 88%
