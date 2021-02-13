@@ -204,7 +204,7 @@ p {
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
-	color: darken($theme-color, 7%);
+	color: #D1E8E2; //darken($theme-color, 7%)
     }
     .projects-section {
         .intro {
@@ -223,7 +223,7 @@ p {
     }
     .publication-authors {
         font-style: italic;
-        color: $text-grey;
+        color: #D1E8E2;
         margin-bottom: 1px;
     }
     .publications-section {
