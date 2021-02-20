@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: xsun@ualberta.ca
     phone: 780 608 9501
-    website:  #do not add http://
+    website:  adamsun.space #do not add http://
     linkedin: adam-sun-4774451b0
     github: adamxsun
     telegram: # add your nickname without '@' sign
@@ -44,7 +44,9 @@ sidebar:
 
       - item: Cooking
         link:
-
+      
+      - item: Dog Trainning
+        link:
 career-profile:
     title: Recent Graduate 
     summary: |
