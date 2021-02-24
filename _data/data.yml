@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Adam (Xiao Sun)
-    tagline: Full Stack Developer
+    tagline: Full Stack Developer & App Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -97,11 +97,16 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: Dating module IOS App
+        link: "#"
+        tagline: "An tinder clone on IOS, not finished yet, written with Swift on Xcode."
+
+      
       - title: Augustana Cafeteria Menu Andriod App
         link: "#https://play.google.com/store/apps/details?id=com.ualberta.ualberta.android"
         tagline: "An Campus App designed to help students to know the daily menu based on individual diet."
 
-      - title: Hangman App
+      - title: Hangman Android App
         link: "#"
         tagline: "A halloween theme hangman game on Andriod."
 
@@ -149,8 +154,8 @@ skills:
       - name: Prolog
         level: 65%
 
-      - name: Scheme
-        level: 35%
+      - name: Xcode & Swift
+        level: 70%
         
       - name: PHP
         level: 55%
